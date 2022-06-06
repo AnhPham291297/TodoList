@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+  font-family: sans-serif;
+}
+
+.completed {
+  text-decoration-line: line-through;
+  text-decoration-color: blue;
+  color: blue;
+  opacity: 0.8;
+}
